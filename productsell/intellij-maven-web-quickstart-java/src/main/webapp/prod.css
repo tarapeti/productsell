@@ -1,0 +1,17 @@
+body {
+    color: yellow;
+    background-color: lightblue;
+}
+h1.header{
+    font-family: "Lucida Console", Monaco, monospace;
+    color: #CCFFCC;
+    font-size: 125px;
+    font-variant: small-caps;
+    vertical-align: top;
+    text-align: center;
+    background: transparent;
+
+}
+p {
+  font-family: "Verdana", Geneva, sans-serif;
+}
